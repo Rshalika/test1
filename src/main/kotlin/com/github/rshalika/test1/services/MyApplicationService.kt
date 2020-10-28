@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.rshalika.test1.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.rshalika.test1.MyBundle
 
 class MyApplicationService {
 
